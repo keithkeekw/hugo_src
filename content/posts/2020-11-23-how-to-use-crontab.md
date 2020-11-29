@@ -34,7 +34,7 @@ Specifying multiple values in a field
 
 In order to edit the table, proceed to run `crontab` with the flag `-e`:
 
-```bash
+```shell
 
  crontab -e
 
@@ -46,7 +46,7 @@ In order to edit the table, proceed to run `crontab` with the flag `-e`:
 
 To view all the tasks listed in the `crontab`, use the command with `-l` flag:
 
-```bash
+```shell
 
  crontab -l
 
@@ -57,4 +57,3 @@ To view all the tasks listed in the `crontab`, use the command with `-l` flag:
 - [Crontab.guru](https://crontab.guru/)
 - [Raspberrypi.org - Scheduling tasks with Cron](https://www.raspberrypi.org/documentation/linux/usage/cron.md)
 - [Tutorialspoint.com - crontab - Unix, Linux Command](https://www.tutorialspoint.com/unix_commands/crontab.htm)
-

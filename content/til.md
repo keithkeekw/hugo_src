@@ -6,7 +6,7 @@ type: "page"
 ---
 Here's a collection of information which resonate deeply in me. This list will consist all range of topics from self-developement, money management and many more.  
 
-**Updated**: 28th November 2020
+**Updated**: 30th November 2020
 
 **2020**  
 **November**  
@@ -20,3 +20,4 @@ Here's a collection of information which resonate deeply in me. This list will c
 |6.|Mapping keys in Vim - Tutorial (Part 1)|[Vim Tips Wiki](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1))|Linux|
 |7.|Mapping keys in Vim - Tutorial (Part 2)|[Vim Tips Wiki](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_2))|Linux|
 |8.|Mapping keys in Vim - Tutorial (Part 3)|[Vim Tips Wiki](https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_3))|Linux|
+|9.|Is Vim Really Not For You? A Beginner Guide | [The Valuablke Dev](https://thevaluable.dev/vim-for-beginners/)|Linux|
