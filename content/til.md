@@ -20,4 +20,3 @@ Here's a collection of information which resonate deeply in me. This list will c
 |Date|Description|Category|
 |:---|:---|:---:|
 |30 Nov 2020|[Deleting Words in Vim](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/2020-11-30%20Deleting%20Words%20in%20Vim.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|
-|30 Nov 2020|[Understanding Linux File Permission](https://github.com/keithkeekw/TodayILearned/blob/main/Linux/2020-12-01%20Understanding%20Linux%20File%20Permissions.md)|[Linux](https://github.com/keithkeekw/TodayILearned/tree/main/Linux)|
