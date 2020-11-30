@@ -6,7 +6,7 @@ type: "page"
 ---
 Here's a collection of information which resonate deeply in me. This list will consist all range of topics from self-developement, money management and many more.You can check out my [GitHub Repository for my TIL notes](https://github.com/keithkeekw/TodayILearned)  
 
-**Updated**: 30th November 2020
+**Updated**: 1st December 2020
 
 ## 2020 
 **December**
