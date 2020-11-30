@@ -9,6 +9,12 @@ Here's a collection of information which resonate deeply in me. This list will c
 **Updated**: 30th November 2020
 
 ## 2020 
+**December**
+
+|Date|Description|Category|
+|:---|:---|:---:|
+|1 Dec 2020|[Understanding Linux File Permission](https://github.com/keithkeekw/TodayILearned/blob/main/Linux/2020-12-01%20Understanding%20Linux%20File%20Permissions.md)|[Linux](https://github.com/keithkeekw/TodayILearned/tree/main/Linux)|
+
 **November**
 
 |Date|Description|Category|
