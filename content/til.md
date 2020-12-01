@@ -11,12 +11,13 @@ Here's a collection of information which resonate deeply in me. This list will c
 ## 2020 
 **December**
 
-|Date|Description|Category|
-|:---|:---|:---:|
-|1 Dec 2020|[Understanding Linux File Permission](https://github.com/keithkeekw/TodayILearned/blob/main/Linux/2020-12-01%20Understanding%20Linux%20File%20Permissions.md)|[Linux](https://github.com/keithkeekw/TodayILearned/tree/main/Linux)|
+|Date|Description|Category|Series|
+|:---|:---|:---:|:---:|
+|1 Dec 2020|[Understanding Linux File Permission](https://github.com/keithkeekw/TodayILearned/blob/main/Linux/2020-12-01%20Understanding%20Linux%20File%20Permissions.md)|[Linux](https://github.com/keithkeekw/TodayILearned/tree/main/Linux)|-|
+|1 Dec 2020|[Vim: Search and Replace](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/2020-12-01%20Search%20and%20Replace.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|25 Days of Vim|
 
 **November**
 
-|Date|Description|Category|
-|:---|:---|:---:|
-|30 Nov 2020|[Deleting Words in Vim](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/2020-11-30%20Deleting%20Words%20in%20Vim.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|
+|Date|Description|Category|Serie|
+|:---|:---|:---:|:---:|
+|30 Nov 2020|[Deleting Words in Vim](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/2020-11-30%20Deleting%20Words%20in%20Vim.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|-|
