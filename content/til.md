@@ -17,6 +17,7 @@ Here's a collection of information which resonate deeply in me. This list will c
 |1 Dec 2020|[Vim: Search and Replace](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/2020-12-01%20Search%20and%20Replace.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|[25 Days of Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim/25%20Days%20of%20Vim%20by%20VimTricks.com)|
 |2 Dec 2020|[Linux File Structure](https://github.com/keithkeekw/TodayILearned/blob/main/Linux/2020-12-02%20Linux%20File%20Structure.md)|[Linux](https://github.com/keithkeekw/TodayILearned/tree/main/Linux)|-|
 |2 Dec 2020|[Extract Lines to File](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/25%20Days%20of%20Vim%20by%20VimTricks.com/2020-12-02%20Extract%20Lines%20to%20File.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|[25 Days of Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim/25%20Days%20of%20Vim%20by%20VimTricks.com)|
+|3 Dec 2020|[Efficient Changes](https://github.com/keithkeekw/TodayILearned/blob/main/Vim/25%20Days%20of%20Vim%20by%20VimTricks.com/2020-12-03%20Efficient%20Changes.md)|[Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim)|[25 Days of Vim](https://github.com/keithkeekw/TodayILearned/tree/main/Vim/25%20Days%20of%20Vim%20by%20VimTricks.com)|
 
 **November**
 
